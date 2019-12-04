@@ -1,0 +1,64 @@
+I"�<p><a href="https://rubyinstaller.org/downloads/">https://rubyinstaller.org/downloads/</a></p>
+
+<ul>
+  <li><a href="https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-devkit-2.6.5-1-x64.exe">Ruby+Devkit 2.6.5-1 (x64)</a></li>
+</ul>
+
+<p><a href="https://rubygems.org/pages/download">https://rubygems.org/pages/download</a></p>
+
+<ul>
+  <li>ZIP</li>
+</ul>
+
+<p>cd 到解压目录</p>
+
+<ul>
+  <li>ruby setup.rb</li>
+</ul>
+
+<p>安装Jekyll</p>
+
+<ul>
+  <li>gem -v</li>
+  <li>gem install jekyll</li>
+</ul>
+
+<p>创建博客</p>
+
+<ul>
+  <li>
+    <p>新建工作区</p>
+
+    <ul>
+      <li>md myBlog</li>
+    </ul>
+  </li>
+  <li>
+    <p>cd 到工作区</p>
+
+    <ul>
+      <li>cd myBlog</li>
+    </ul>
+  </li>
+  <li>
+    <p>执行 <code class="highlighter-rouge">jekyll new name(创建新的工作区)</code></p>
+
+    <ul>
+      <li>jekyll new myblog</li>
+    </ul>
+  </li>
+  <li>
+    <p>cd 到博客文件夹，开启服务器</p>
+
+    <ul>
+      <li>
+        <p>jekyll serve –watch</p>
+
+        <blockquote>
+          <p>watch为了检测文件夹内的变化，即修改后不需要重新启动jekyll</p>
+        </blockquote>
+      </li>
+    </ul>
+  </li>
+</ul>
+:ET
