@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -30,30 +30,31 @@ permalink: /:year/:month/:day/:title/
 
 
 # other links
-twitter_username: xxxx
-facebook_username: xxxx
+twitter_username: # xxxx
+facebook_username: # xxxx
 github_username:  Ray-Blog
 email: yangr_mail@yeah.net
-weibo_username: xxxx
-zhihu_username: xxxx
-linkedIn_username: xxxx
-dribbble_username: xxx
+weibo_username: # xxxx
+zhihu_username: # xxxx
+linkedIn_username: # xxxx
+dribbble_username: # xxx
 
-description_footer: 来自Ray-Blog的技术专栏,记录我前端之旅的沿途风景！
+description_footer: 来自Ray-Blog的技术专栏
 
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: Ray-Blog
-disqus_shortname: Ray-Blog
+duoshuo_shortname: #Ray-Blog
+disqus_shortname: #Ray-Blog
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 # xxxxx字符串
 # baidu_tongji_id: cf8506e0ef223e57ff6239944e5d46a4
-baidu_tongji_id: 7f7dc38df9ab43289e8b4fe270868f54
-google_analytics_id: UA-72449510-4 # google 分析追踪id
+baidu_tongji_id: 7f7dc38df9ab43289e8b4fe270868f54 # 自己
+# google_analytics_id: UA-72449510-4 # google 分析追踪id
+google_analytics_id: UA-153956743-1 # 自己
 
 
 # Build settings
@@ -65,7 +66,7 @@ markdown: kramdown
 
 kramdown:
   input: GFM
-  syntax_highlighter: rouge
+  syntax_highlighter: pygments # rouge
 
 
 

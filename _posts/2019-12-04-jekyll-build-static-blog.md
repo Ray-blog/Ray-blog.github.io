@@ -2,14 +2,14 @@
 layout: post
 title:  "jekyll 搭建静态博客"
 date:   2019-12-04 20:26:50 +0800
-categories: jekyll update
+categories: Jekyll GitHub-Page
 ---
 
 
 
 <https://rubyinstaller.org/downloads/>
 
-- [Ruby+Devkit 2.6.5-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-devkit-2.6.5-1-x64.exe) 
+- [Ruby+Devkit 2.6.5-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-devkit-2.6.5-1-x64.exe)
 
 
 
