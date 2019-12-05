@@ -2,7 +2,8 @@
 layout: post
 title:  "jekyll 搭建静态博客"
 date:   2019-12-04 20:26:50 +0800
-categories: Jekyll GitHub-Page
+categories: tool jekyll
+tags: jekyll github-page
 ---
 
 
