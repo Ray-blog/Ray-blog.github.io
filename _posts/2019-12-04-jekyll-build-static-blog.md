@@ -8,6 +8,26 @@ tags: jekyll github-page
 
 
 
+
+
+
+
+
+
+jekyll + github page 搭建静态博客
+
+安装 --> 创建博客 --> 配置 --> 本地运行 --> 部署
+
+
+
+
+
+
+
+
+
+### 安装
+
 <https://rubyinstaller.org/downloads/>
 
 - [Ruby+Devkit 2.6.5-1 (x64)](https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.5-1/rubyinstaller-devkit-2.6.5-1-x64.exe)
@@ -33,6 +53,8 @@ cd 到解压目录
 
 
 
+### 创建博客
+
 创建博客
 
 - 新建工作区
@@ -50,3 +72,13 @@ cd 到解压目录
   - jekyll serve --watch
 
     > watch为了检测文件夹内的变化，即修改后不需要重新启动jekyll
+
+### 配置
+
+
+
+### 本地运行
+
+
+
+### 部署

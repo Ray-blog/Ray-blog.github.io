@@ -4,8 +4,18 @@ title:  "Welcome to Jekyll!"
 date:   2019-12-04 20:01:22 +0800
 categories: tool jekyll
 tags: jekyll
+excerpt: 创建 jekyll 时默认的一篇文章，留个纪念吧。
+mathjax: true
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+
+
+
+
+
+
+
 
 Jekyll requires blog post files to be named according to the following format:
 
